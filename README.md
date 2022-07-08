@@ -9,19 +9,19 @@ Midterm Project - Sprouts Lands - Team Cua Gach
 
 2. Game summary:
 Overview:
-Farm must be a phrase, a strange thing for those who have lived in cities since childhood because we are surrounded by skyscrapers close together, amusement parks with many modern games. The aim to provide a variety of experiences to "city kids" motivates us to develop a farming RPG game called “Sprout Lands”, in which the player can incarnate as a farmer and take care of crops on their land. 
-Gameplay style: Stardew Valley
-Camera: Top down 
-Players: Single player 
-Scope (hours): 30 minutes 
-Target audience: The game is aimed at players who want to play idle games for relaxation, players who love the farming genre. 
-Target release date: 8th July 2022 
-Lead development platform: Windows
+- Farm must be a phrase, a strange thing for those who have lived in cities since childhood because we are surrounded by skyscrapers close together, amusement parks with many modern games. The aim to provide a variety of experiences to "city kids" motivates us to develop a farming RPG game called “Sprout Lands”, in which the player can incarnate as a farmer and take care of crops on their land. 
+- Gameplay style: Stardew Valley
+- Camera: Top down 
+- Players: Single player 
+- Scope (hours): 30 minutes 
+- Target audience: The game is aimed at players who want to play idle games for relaxation, players who love the farming genre. 
+- Target release date: 8th July 2022 
+- Lead development platform: Windows
 
 Key ideas:
-Explore the life of a farmer : The crops of the tropics are always lush and play an important role in the lives of the people of this land. Incarnate as a farmer and explore your farm and enjoy the perfect farm life! 
-Build a real farm: Explore the empty lands. Cultivate and harvest crops, picking juicy fruits. In this land game, your success in farmer life depends on your farming skills. 
-You own a farm that will become bigger, giving you the opportunity to develop a big farm from scratch.
+- Explore the life of a farmer : The crops of the tropics are always lush and play an important role in the lives of the people of this land. Incarnate as a farmer and explore your farm and enjoy the perfect farm life! 
+- Build a real farm: Explore the empty lands. Cultivate and harvest crops, picking juicy fruits. In this land game, your success in farmer life depends on your farming skills. 
+- You own a farm that will become bigger, giving you the opportunity to develop a big farm from scratch.
 
 3. How to play:
 The player use “w, a, s, d” or ↑ ← ↓ → from the keyboard to move. They can run by pressing shift & control keys.
