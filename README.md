@@ -8,6 +8,7 @@ Midterm Project - Sprouts Lands - Team Cua Gach
 - 19125130 - Mai Thi Cam Van
 
 2. Game summary:
+
 Overview:
 - Farm must be a phrase, a strange thing for those who have lived in cities since childhood because we are surrounded by skyscrapers close together, amusement parks with many modern games. The aim to provide a variety of experiences to "city kids" motivates us to develop a farming RPG game called “Sprout Lands”, in which the player can incarnate as a farmer and take care of crops on their land. 
 - Gameplay style: Stardew Valley
