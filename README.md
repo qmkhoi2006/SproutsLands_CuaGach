@@ -1,13 +1,13 @@
 # SproutsLands_CuaGach
-Midterm Project - Sprouts Lands - Team Cua Gach
+## Midterm Project - Sprouts Lands - Team Cua Gach
 
-1. Team members:
+## 1. Team members:
 - 19125054 - Quach Minh Khoi
 - 19125074 - Ha Phuong Uyen
 - 19125075 - Lam Bich Van
 - 19125130 - Mai Thi Cam Van
 
-2. Game summary:
+## 2. Game summary:
 
 Overview:
 - Farm must be a phrase, a strange thing for those who have lived in cities since childhood because we are surrounded by skyscrapers close together, amusement parks with many modern games. The aim to provide a variety of experiences to "city kids" motivates us to develop a farming RPG game called “Sprout Lands”, in which the player can incarnate as a farmer and take care of crops on their land. 
@@ -24,7 +24,7 @@ Key ideas:
 - Build a real farm: Explore the empty lands. Cultivate and harvest crops, picking juicy fruits. In this land game, your success in farmer life depends on your farming skills. 
 - You own a farm that will become bigger, giving you the opportunity to develop a big farm from scratch.
 
-3. How to play:
+## 3. How to play:
 The player use “w, a, s, d” or ↑ ← ↓ → from the keyboard to move. They can run by pressing shift & control keys.
 
 At first, each player is provided with 3 tools, 5 types of seeds (10 seeds / each type) and a complete map to explore.
@@ -43,8 +43,9 @@ Cultivation
 - After the plant is ready to harvest, harvest it. These items will be stored in the inventory.
  
 
-4. Unity version: Unity 2021.3.4f1
+## 4. Unity version: 
+Unity 2021.3.4f1
 
-5. Resources reference:
+## 5. Resources reference:
 - Sprite from: https://cupnooble.itch.io/sprout-lands-asset-pack?fbclid=IwAR1eBT7wYxuSCKenNAxpZq2TA5ppJbI88w97gdZFO4lvz1o6fhcVREDwT0A
 - Inspired from Stardew Valley: https://www.youtube.com/watch?v=ZIEE-2ZdAxU&list=PL0GUZtUkX6t6wXF0U0WAQNVYL68pYUCZv
